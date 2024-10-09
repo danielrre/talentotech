@@ -1,5 +1,5 @@
 
-let numero  = Math.floor(Math.random() * 100)
+let numero  = Math.floor(Math.random() * 1000)
 
 let numeroUser = parseInt(prompt('Ingrese Numero a adivinar: '))
 
