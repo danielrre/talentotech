@@ -16,7 +16,7 @@ while (numeroUser !== numero) {
         console.log(`EL numero ${numeroUser} es mas alto`)
     } 
 
-    numeroUser = parseInt(prompt('Ingrese Numero a adivinar: '))
+    numeroUser = parseInt(prompt('Ingrese Numero a adivinar porfavor: '))
     
 } 
 
